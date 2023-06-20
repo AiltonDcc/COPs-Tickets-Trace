@@ -1,0 +1,163 @@
+﻿Item,Open,Closed,Pending,Resolved,Assigned,WIP,Total
+Transaction Reversal – P2P 500 above,0,44,0,0,49,6,99
+Contract -Renewal,0,2,0,0,0,5,7
+Transaction Reversal P2P 1 - 500,0,20,0,0,31,4,55
+GSM USSD,0,0,0,0,4,2,6
+Cannot Receive Calls,0,0,0,0,6,2,8
+Contract - Renewal,0,0,0,0,0,2,2
+Transaction Reversal P2P - Used money,0,16,0,0,4,1,21
+Partial Reversal - Customer to Customer,0,3,0,0,4,1,8
+Cannot Make Calls,0,0,1,0,5,1,7
+WFT,0,0,4,0,1,1,6
+Reception of Confirmation SMS,0,2,0,0,3,1,6
+Transaction Reversal – Withdraw 1-1500,0,3,0,0,6,1,10
+Reimbursement,0,0,0,0,0,1,1
+Aditivos Recorrentes,0,0,0,0,0,1,1
+Buy airtime,0,0,0,0,2,1,3
+Self-Reversal P2P,4,1,0,0,0,0,5
+Bom dia promo – Bonus,0,0,0,0,6,0,6
+ATM Withdrawal,0,0,0,0,6,0,6
+Fraud Customer to Customer (P2P),0,9,0,0,2,0,11
+Transaction Reversal Bank To M-Pesa,0,1,0,0,18,0,19
+Reversal Bank to M-Pesa - Used money,0,0,0,0,3,0,3
+Cannot make and receive Calls,0,0,0,0,1,0,1
+Data bundle – Daily offers,0,0,1,0,0,0,1
+Authorised – Transfer Customer to Customer,0,0,0,0,1,0,1
+Transfer From M-Pesa To Bank,0,0,0,0,2,0,2
+Transaction Reversal - M-Pesa to E-mola,0,1,0,0,52,0,53
+GOtv No Signal after Payment,0,0,0,0,1,0,1
+Transaction Reversal – Withdraw Cash 1500 above,0,0,0,0,2,0,2
+Repayment Queries – Cancelled payment registered,0,1,0,0,1,0,2
+ATM Difficulty Withdrawal,0,0,0,0,1,0,1
+Promo Niassa,0,0,0,0,4,0,4
+Transfer from M-Pesa to e-Mola,0,2,0,0,44,0,46
+Menu not available,0,0,0,0,1,0,1
+Transfer from e-Mola to M-Pesa,0,0,0,0,2,0,2
+Mukuru - Transaction Reversal,0,0,0,0,1,0,1
+Reset Password,0,1,0,0,2,0,3
+Cannot Send SMS,0,0,0,0,3,0,3
+Transaction Reversal – Deposit Agent to Agent,0,5,0,0,16,0,21
+Ofertas TodaHora - Diaria,0,0,0,0,1,0,1
+Data Bundles,0,1,0,0,1,0,2
+Quote request,0,1,0,0,2,0,3
+Cobrancas ilicitas,0,0,0,0,1,0,1
+Transaction Reversal - E-mola to M-Pesa,0,0,0,0,7,0,7
+Batch Expired,0,1,1,0,3,0,5
+Ofertas de dados - Infinito,0,0,0,0,1,0,1
+Withdraw cash,0,1,0,0,3,0,4
+CLIP - Caller Line Identity Presentation,0,1,0,0,2,0,3
+Explicador 84,0,2,0,0,1,0,3
+Main Account- Informação não actualizada,0,0,0,0,2,0,2
+Transfer From Bank To M-Pesa,0,1,0,0,0,0,1
+M-Pesa Data Bundles,0,1,0,0,1,0,2
+Cancelled – Transfer P2P,0,0,0,0,1,0,1
+Bónus do Telemóvel,0,0,0,0,1,0,1
+Repayment Queries – Amount different than required,0,0,0,0,3,0,3
+Float Allocation,0,0,0,0,4,0,4
+Registration Update & Tier Upgrade,0,0,0,0,46,0,46
+Buy Credelec,0,1,0,0,1,0,2
+Update details – Subscriber’s Docs,0,0,0,0,1,0,1
+Comprovativo de registo - Loja,0,13,0,0,34,0,47
+Activation,0,3,0,0,1,0,4
+Oferta de Internet Mensal,0,1,0,0,0,0,1
+Transaction Reversal Used Money - M-Pesa to E-mola,0,0,0,0,1,0,1
+SIM Swap-48h barring,0,0,0,0,6,0,6
+Deposit Cash,0,0,0,0,1,0,1
+Buy Airtime Promotion,0,1,0,0,0,0,1
+Broadband Internet - BIA,0,1,0,0,0,0,1
+Bulk SMS-Activation,0,1,0,0,0,0,1
+Pedido de Extracto,0,0,0,0,30,0,30
+Reset Password – G2,0,0,0,0,2,0,2
+Comprovativo de Registo - Informação,0,0,0,0,1,0,1
+More than 5 numbers,0,1,0,0,1,0,2
+Hungama - Cancelar a subscrição,0,1,0,0,0,0,1
+Credit transfer,0,0,0,0,1,0,1
+Callers,0,2,0,0,3,0,5
+Maximum Yearly Money In - Tier 2,0,0,0,0,3,0,3
+Archived Account,0,0,0,0,1,0,1
+Jackpot,0,0,0,0,1,0,1
+Main Account,0,0,0,0,4,0,4
+Feliz Aniversário com Bónus,0,0,0,0,3,0,3
+Request Balance Reallocation,0,0,0,0,8,0,8
+Recharge - Damaged PIN,0,1,0,0,0,0,1
+Registration Status 84441 Failed,0,1,0,0,0,0,1
+E-sports Mobiwin – Cancelar subscrição,0,0,0,0,1,0,1
+Bulk payment complaint,0,0,0,0,1,0,1
+Paga Facil Transaction Reversal,0,0,0,0,1,0,1
+M-Pesa Account Suspension,0,0,0,0,3,0,3
+Meu Número 1,0,0,1,0,1,0,2
+Transaction Reversal - P2P,0,1,0,0,2,0,3
+Registration,0,0,0,0,1,0,1
+Batch Allocated,0,0,0,0,2,0,2
+Mensal,0,0,0,0,1,0,1
+Repayment Queries – Self-repayment not registered,0,0,0,0,2,0,2
+Itimised Billing,0,1,0,0,0,0,1
+Reset Pin,0,1,0,0,0,0,1
+Registration Update Details & Recycle Request,0,0,0,0,6,0,6
+Trespasse & Recycle Request,0,0,0,0,6,0,6
+PIN Request,0,1,0,0,0,0,1
+Transfer from M-Pesa to MKesh,0,0,0,0,3,0,3
+Send Money P2P,0,0,0,0,3,0,3
+Vicinity Check - Deposit,0,0,0,0,1,0,1
+Transaction Reversal M-Pesa To Bank,0,0,0,0,3,0,3
+Manual configuration,0,0,0,0,1,0,1
+Cancellation Request,0,0,0,0,8,0,8
+Pagamento para entidade incorrecta,0,1,0,0,3,0,4
+Tariff migration - Upward,0,2,0,0,0,0,2
+Agent Float Deposit,0,0,0,0,3,0,3
+Request Account Creation,0,0,0,0,10,0,10
+Main Account- Txuna Credito,0,0,0,0,1,0,1
+M-pesa  Suspension,0,0,0,1,0,0,1
+Credit Notes,0,0,0,0,1,0,1
+M-Pesa account suspension by Spapi,0,0,0,0,3,0,3
+Transaction Reversal Voucher 1-1500,0,0,0,0,1,0,1
+Cancellation,0,1,0,0,0,0,1
+GOTv Payments,0,0,0,0,1,0,1
+Recharge Voucher,0,0,0,0,1,0,1
+Deposit - wrong amount,0,0,0,0,3,0,3
+M-Pesa account Suspended & Dormant Status,0,0,0,0,3,0,3
+Tariff migration – Downward,0,1,0,0,0,0,1
+Due Amount,0,0,0,0,2,0,2
+Recycling  Request,0,0,0,0,1,0,1
+Unlock PIN,0,1,0,0,0,0,1
+M-Pesa Account Details Update,0,0,0,0,5,0,5
+Transaction Pending In Authorized,0,0,0,0,3,0,3
+Transaction Reversal – Voucher,0,0,0,0,2,0,2
+M-Pesa Agent Account Creation,0,0,0,0,1,0,1
+MSISDN reactivation request,0,1,0,0,2,0,3
+SolarWorks SMS de Confirmação,0,0,0,0,1,0,1
+Voucher Free SMS,0,0,0,0,1,0,1
+3G calls,0,0,0,0,1,0,1
+Paga Facil Resend PIN,0,1,0,0,1,0,2
+Contract - Renewal Approved Request,0,1,1,0,0,0,2
+VELABET – Confirmation SMS,0,0,0,0,1,0,1
+Retention Request EBU,0,0,0,0,1,0,1
+Send Money to Unregistered Customer,0,0,0,0,1,0,1
+Eligibility,0,0,0,0,1,0,1
+Registration Update Details,0,0,0,0,2,0,2
+Notifications,0,0,0,0,1,0,1
+Cannot use *160#,0,0,0,0,1,0,1
+VuClip - Cancelar Subscrição,0,0,0,0,1,0,1
+Txuna Crédito,0,0,0,0,2,0,2
+Renewal/ Migration Upgrade-,0,0,1,0,0,0,1
+SIM Management/ Gestão de Cartões SIM,0,1,0,0,0,0,1
+M-Pesa USSD,0,0,0,0,2,0,2
+Main Account - Cobrança Indevida,0,0,0,0,1,0,1
+Contract Cancellation Request,0,1,0,0,0,0,1
+Due Date debit Queries,0,0,0,0,1,0,1
+Comprovativo de registo - WhatsApp,0,0,0,0,1,0,1
+Transaction Reversal – Withdraw 1 -1500,0,0,0,0,1,0,1
+Callback Service - Question Resolved,0,0,0,0,1,0,1
+Difficulty to register,0,0,0,0,1,0,1
+Recycle Request,0,0,0,0,3,0,3
+Cancelamento de SMS promocionais,0,0,0,0,1,0,1
+Partial Reversal- Bank To Mpesa,0,0,0,0,1,0,1
+M-pesa  Details Update,0,0,0,0,1,0,1
+Golden Number Request Unsuccessful,0,0,0,0,1,0,1
+Paga Facil Change Details,0,0,0,0,1,0,1
+Frozen Account,0,0,0,0,1,0,1
+Bill limit,0,0,0,0,1,0,1
+M-pesa Account Transaction,0,0,0,0,1,0,1
+Cancelled - Buy Credelec,0,0,0,0,1,0,1
+Pay Bill – Pedido de confirmação,0,0,0,0,1,0,1
+Limite de envio e recepção de valores,0,0,0,0,1,0,1
